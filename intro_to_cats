@@ -1,0 +1,13 @@
+Characterise groupoids with products (they are either contractible or empty)
+
+Describe products in sets and partial functions
+
+We know that a functor F:C->D has a left adjoint iff the comma category d/F has an initial object for every d. Can we say something about the case, when d/F has a terminal object for every d? (Yes, this yields a functor G:D^op->C together with two dinatural transformations id=>GF, id=>FG)
+
+What are internal categories in Ab? (The interesting bit is that the composition and the axioms are automatic)
+
+Prove that a pseudomonoid in the 2-category of monoids is still a commutative monoid. (This generalises a bit classical Eckmann-Hilton)
+
+Let c\in C. Compute colim C(c,-) and colim C(-,c).
+
+Find 2 locally small categories C, D such that C^D is not locally small and prove that it is indeed the case.

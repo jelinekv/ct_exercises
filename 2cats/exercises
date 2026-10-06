@@ -1,0 +1,7 @@
+------------ 2-Cats proofs of 1-Cats statements --------------
+Prove RAPL
+
+Prove that a limit over a shape with an initial object is the image of the initial object. (Exponentiation is a 2-functor, hence it preserves adjunctions)
+
+------------ Playing with 2-cells -------------
+slicing of an equivalence works fine only if we had an adjoint equivalence in the beginning; formally: prove that if F:C->D is an equivalence and c:C, then F/c: C/c -> D/Fc is an equivalence as well.
